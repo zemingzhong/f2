@@ -81,7 +81,6 @@ f2:
         user_unique_id: ""
 
   tiktok:
-
     BaseRequestModel:
       browser:
         language: zh-CN
@@ -90,7 +89,7 @@ f2:
         version: 5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36
 
       device:
-        id: "7377772863376426514"
+        id: "7471096113405183534"
         platform: web_pc
 
       os: windows

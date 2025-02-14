@@ -386,7 +386,7 @@ class TiktokHandler:
 
             yield video
 
-            if cursor < min_cursor:
+            if int(cursor) < min_cursor:
                 logger.info(_("已经处理到指定时间范围内的作品"))
                 break
 
